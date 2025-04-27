@@ -1,5 +1,7 @@
 # UNICODE ESCAPE SEQUENCE CATCHER (UESC)
 
+## UESC - is a simple python script that translates every Unicode Escape Sequence in a given file into English
+
 ## Requirements:
 
 - Python >= 3.12
