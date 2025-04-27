@@ -1,5 +1,13 @@
 # UNICODE ESCAPE SEQUENCE CATCHER (UESC)
 
+## Requirements:
+
+- Python >= 3.12
+
+- mtranslate
+
+- re and os (there is no way you don't have that in your installed python)
+
 ## How to Use it:
 
 Install ```mtranslate``` using: ```pip install mtranslate```  
